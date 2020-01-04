@@ -1,0 +1,54 @@
+[
+  {
+  "VehicleNo": "2101",
+  "TripId": 9082058,
+  "RouteNo": "014",
+  "Direction": "EAST",
+  "Destination": "HASTINGS",
+  "Pattern": "EB1",
+  "Latitude": 49.264067,
+  "Longitude": -123.167150,
+  "RecordedTime": "12:52:08 pm",
+  "RouteMap": {
+    "Href": "http:\/\/nb.translink.ca\/geodata\/014.kmz"
+  }
+}, {
+  "VehicleNo": "2131",
+  "TripId": 9077260,
+  "RouteNo": "004",
+  "Direction": "EAST",
+  "Destination": "POWELL",
+  "Pattern": "EB1",
+  "Latitude": 49.263533,
+  "Longitude": -123.228233,
+  "RecordedTime": "12:51:50 pm",
+  "RouteMap": {
+    "Href": "http:\/\/nb.translink.ca\/geodata\/004.kmz"
+  }
+}, {
+  "VehicleNo": "2161",
+  "TripId": 9077286,
+  "RouteNo": "004",
+  "Direction": "EAST",
+  "Destination": "POWELL",
+  "Pattern": "EB1",
+  "Latitude": 49.282167,
+  "Longitude": -123.094550,
+  "RecordedTime": "12:52:22 pm",
+  "RouteMap": {
+    "Href": "http:\/\/nb.translink.ca\/geodata\/004.kmz"
+  }
+}, {
+  "VehicleNo": "2174",
+  "TripId": 9082011,
+  "RouteNo": "014",
+  "Direction": "EAST",
+  "Destination": "HASTINGS",
+  "Pattern": "EB1",
+  "Latitude": 49.284617,
+  "Longitude": -123.114900,
+  "RecordedTime": "12:50:50 pm",
+  "RouteMap": {
+    "Href": "http:\/\/nb.translink.ca\/geodata\/014.kmz"
+  }
+}]
