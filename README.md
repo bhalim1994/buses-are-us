@@ -1,5 +1,5 @@
 # BusesAreUs
-A UBC Academic project.
+A UBC academic project.
 
 An android app that parses information from XML files that hold route information from TranskLink's API and consequently helps users to locate bus stops, bus paths and arrival times of buses. 
 
